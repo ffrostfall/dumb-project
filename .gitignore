@@ -1,2 +1,5 @@
 Packages
 vendor/**
+
+packages-sourcemap.json
+sourcemap.json
