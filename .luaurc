@@ -1,0 +1,13 @@
+{
+	"languageMode": "strict",
+	
+	"aliases": {
+		"pkg": "Packages",
+		
+		"ext": "ext/",
+		
+		"client": "game/client",
+		
+		"lune": "~/.lune/.typedefs/0.9.4/"
+	}
+}
