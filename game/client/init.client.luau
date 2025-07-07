@@ -1,1 +1,1 @@
-local a = require("@pkg/jabby")
+local a = require(game.ReplicatedStorage.Packages.jabby)

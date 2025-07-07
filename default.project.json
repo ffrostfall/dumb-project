@@ -4,22 +4,6 @@
 	"tree": {
 		"$className": "DataModel",
 		
-		"Workspace": {
-			"local_physics": { "$className": "Camera" },
-			
-			"rendered": {
-				"$className": "Folder",
-				
-				"map": {
-					"$className": "Folder"
-				},
-				
-				"mobs": {
-					"$className": "Folder"
-				}
-			}
-		},
-		
 		"ReplicatedStorage": {
 			"$className": "ReplicatedStorage",
 			
